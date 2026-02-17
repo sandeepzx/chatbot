@@ -1,0 +1,6 @@
+cat <<EOF > .gitignore
+.env
+.chatvenv/
+__pycache__/
+*.pyc
+EOF
